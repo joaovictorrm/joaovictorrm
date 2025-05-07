@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou **Instrutor de TI** e **Desenvolvedor**, apaixonado por tecnologia, ensino e boas ideias.  
+Sou **Professor de TI** e **Desenvolvedor**, apaixonado por tecnologia, ensino e boas ideias.  
 Atuo Ministrando Aulas de **Programação Web, Desktop e Mobile**, **Banco de Dados**, **Teste de Software**, **Lógica de Programação** e **Analise de Requisitos**.
 
 🎓 **Formações:**
